@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ConstrainLayout</string>
+    <string name="follow">Seguir</string>
+    <string name="message">Mensaje</string>
+    <string name="suscribe">Subscribir</string>
+    <string name="description">Iron Man súper héroe de Marvel</string>
+
+</resources>
